@@ -2,17 +2,6 @@
     
 Description apple mango data done
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Installation
-
 ## 1. Introduction   
 
 This is a **frontend boilerplate template application** built using the Wrappid framework, which enables simultaneous development of web and mobile application.   
@@ -24,11 +13,7 @@ This guide will help us setup and run application using Wrappid framework.
 This getting started section will help you setup a basic application built using the Wrappid framework. Follow the below steps to get going.
 
 [2.1. What are my Pre-requisites?](#21-what-are-my-pre-requisites)
-[2.2. How to Create?](#22-how-to-create)
-[2.3. How to Setup?](#23-how-to-setup)
-[2.4. How to Start?](#24-how-to-start)
 
-<!-- ### Verify Pre-requisites
 
 First you need to verify that your system fulfills the pre-requisites. Listed below are the things required to be available in your system.
 
@@ -36,20 +21,6 @@ First you need to verify that your system fulfills the pre-requisites. Listed be
 - npm - version 8
 - @wrappid/toolkit installed globally
 
-#### STEPS TO FOLLOW
-
-- Step 1: wrappid init app test-project
-- Step 2: cd test-project-app
-- Step 3: wrappid setup
-- Step 4: wrappid start web
-- Step 5: wrappid start mobile
-
-#### For Mobile development
-
-- JDK 11 or more
-- Android Studio
-  - Android Device Manager
-  - At least one device on the emulator -->
 
 ### 2.1. What are my Pre-requisites?
 
@@ -61,37 +32,6 @@ First you need to verify that your system fulfills the pre-requisites. Listed be
 
 It is expected that you have successfully installed @wrappid/toolkit(wrappid framework's CLI tool) and initialised it.
 Run the below command to create Frontend Wrappid Project
-
-terminal
-wrappid init app <wrappid>
-
-
-**Output:**  
-![wrappid-app](https://github.com/wrappid/.github/assets/61864488/c7b6f0ae-bc7c-4008-87d0-96994839002a)
-
-
-### 2.3. How to Setup?
-
-Frontend Wrappid-App has two runtime-environments:
-- Web
-- Mobile
-
-We will talk about these environments in upcomming sections.
-
-> **_Note:_** _If you want to setup a wrappid-app project that is already in your github, you need to clone it. After clonning, run npm i at the root of the project_
-
-Run the below command to setup a Frontend Wrappid Project in web and mobile runtime-environments.
-
-bash
-cd <wrappid>-<app>
-wrappid setup
-
-
-Run the below command to setup a wrappid-app in web runtime-environment.
-
-bash
-cd <wrappid>-<app>
-wrappid setup web
 
 
 Run the below command to setup a wrappid-app in mobile runtime-environment.
