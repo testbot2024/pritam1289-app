@@ -1,7 +1,5 @@
 # Project pritam1289-app 
-    this pritam1289-app is created using the wrappid framework.
-    url link or original template: [Original Template Wrappid](https://github.com/wrappid/wrappid-app)
-
+    
     apple mango data done
 
 ## Table of Contents
@@ -21,4 +19,6 @@
 2. **Install Dependencies**:
 //ask pritam mondal
 
+pritam1289-app is created using the wrappid framework.
+    url link or original template: [Original Template Wrappid](https://github.com/wrappid/wrappid-app)
 
