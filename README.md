@@ -1,6 +1,6 @@
 # Project pritam1289-app 
     this pritam1289-app is created using the wrappid framework.
-    url link or original template: https://github.com/wrappid/pritam1289-app-wrapped
+    url link or original template: https://github.com/wrappid/wrappid-app
 
     apple mango data done
 
